@@ -1,5 +1,7 @@
 # smmpanel_smmlight_theme
-SmmPanel SMM Light Theme
+SmmPanel SMM Light Theme 
+
+https://primepanel.net
 
 <img width="6634" height="6480" alt="test primepanel net_ (1)" src="https://github.com/user-attachments/assets/8a894857-9ee1-42ab-b256-1b638fb069ae" />
 <img width="1915" height="917" alt="image" src="https://github.com/user-attachments/assets/eea23be6-a888-4657-87c5-f66cb8235d8a" />
